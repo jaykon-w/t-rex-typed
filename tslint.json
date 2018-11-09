@@ -1,0 +1,14 @@
+{
+  "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+  "rules": {
+    "quotemark": [true, "single", "jsx-double"],
+    "semicolon": [true, "always", "ignore-bound-class-methods"],
+    "member-access": [true, "no-public"],
+    "trailing-comma": true,
+    "no-console": false,
+    "max-classes-per-file": false,
+    "jsx-boolean-value": ["never"],
+    "jsx-no-lambda": false,
+    "no-shadowed-variable": false
+  }
+}

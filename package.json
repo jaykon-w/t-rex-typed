@@ -21,5 +21,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "@types/node": "^10.12.2",
+    "@types/react": "^16.4.18",
+    "@types/react-dom": "^16.0.9",
+    "node-sass": "^4.9.4",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-react": "^3.6.0",
+    "tslint-react-a11y": "^1.0.0",
+    "typescript": "^3.1.6"
+  }
 }
